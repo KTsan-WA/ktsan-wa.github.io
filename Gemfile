@@ -5,5 +5,5 @@ gem "jekyll", "~> 4.3"          # Jekyll 核心
 gem "webrick", "~> 1.8"         # 本地预览服务器
 
 # 主题选择（选一个即可）
-gem "jekyll-theme-cayman", "~> 2.5"          # GitHub 默认主题（推荐新手）
-# gem "minima"     # 备用主题
+gem "jekyll-theme-cayman"          # GitHub 默认主题（推荐新手）
+# gem "minima", "~> 2.5"     # 备用主题
