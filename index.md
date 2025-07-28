@@ -1,3 +1,8 @@
+---
+layout: home             # 使用主题的首页布局
+title: "麻阿久陀運上手不能"  # 覆盖默认标题
+---
+
 # Review of Hu Wenhai
 
 兄弟们，这么说的话我出来说两句了。
