@@ -1,8 +1,6 @@
 ---
-layout: home             # 使用主题的首页布局
+layout: home
 ---
-
-# Review of Hu Wenhai
 
 兄弟们，这么说的话我出来说两句了。
 如果结得我海哥不对，你们尽量骂。
