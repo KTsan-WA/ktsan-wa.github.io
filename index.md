@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "欢迎"
+title: "NOW'S YOUR CHANCE TO BE A [[BIG SHOT]]!!"
 ---
 
 ![Spamton](/assets/images/Spamton.png)
