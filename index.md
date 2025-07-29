@@ -2,11 +2,8 @@
 layout: home
 title: "欢迎"
 ---
-<img 
-  src="/assets/images/Spamton.png" 
-  alt="Spamton"
-  style="margin: 20px auto; display: block;"
->
+<img src="/assets/images/Spamton.png" alt="Spamton"style="margin: 20px auto; display: block;"></img>
+
 * [Bros]，这么说的话我出来[[说两句了]]！
 * 如果结得我[不对]，你们尽量[骂]。
 * 这几年的[电子邮件]我都从头发到尾，从来[[没有]]要点什么！
