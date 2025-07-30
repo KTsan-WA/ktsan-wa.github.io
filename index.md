@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# アタマワルワル
-
 ![アタマワルワル](/assets/images/atamawaruwaru.png)
 * 孩子，怎么样？想要来份草莓蛋糕吗？
 * 呵呵，今天天气不错，所以我的货都抢完了。
